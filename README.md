@@ -25,7 +25,7 @@
 - Использованные технологии: Redux, TypeScript, React
 
 
-### [mesto-project-ff](https://github.com/your/repo2)
+### [mesto-project-ff](https://github.com/Milsb4/mesto-project-ff)
 - Веб-приложение, где пользователи могут делиться фотографиями уникальных мест и открывать для себя локации, опубликованные другими.
 - Использованные технологии: JavaScript, webpack
 
